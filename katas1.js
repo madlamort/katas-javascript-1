@@ -6,6 +6,8 @@ function oneThroughTwenty() {
        
    }
    
+//
+
    function evensToTwenty() {
    var contador =1;
    while (num<=20) {
@@ -17,6 +19,8 @@ function oneThroughTwenty() {
    }  
    }
    
+//
+
    function oddsToTwenty() {
      var contador=1;
      while (nuber<=20) {
